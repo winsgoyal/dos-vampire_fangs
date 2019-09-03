@@ -1,1 +1,1 @@
-# Finding Vampire Numbers and its fangs using Elixir's Actor model
+# Finding Vampire numbers and its fangs using Elixir's Actor model
