@@ -1,4 +1,4 @@
-defmodule Proj1.MixProject do
+defmodule MyApp.MixProject do
   use Mix.Project
 
   def project do

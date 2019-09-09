@@ -1,4 +1,4 @@
-# Proj1
+# MyApp
 
 **TODO: Add description**
 
